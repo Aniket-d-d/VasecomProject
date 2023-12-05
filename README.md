@@ -1,9 +1,9 @@
 # VasecomProject
-##VasecomProject: Static E-commerce Site for devops enthusiasts.
+## VasecomProject: Static E-commerce Site for devops enthusiasts.
 
 Welcome to VasecomProject, a repository containing static HTML pages for a simple yet elegant e-commerce site dedicated to selling beautiful vases. Whether you're an aspiring web developer, setting up your personal website, or exploring microservices architecture, this repository offers a versatile foundation for your projects.
 
-###Key Features:
+### Key Features:
 
 Static Pages: Browse through carefully crafted static pages:
 
@@ -15,7 +15,7 @@ order.html: Place your orders seamlessly.
 ordered.html: A confirmation page to acknowledge successful orders.
 Image Gallery: The images folder includes a variety of high-quality stock images, enhancing the visual appeal of your site.
 
-###How to Use:
+### How to Use:
 
 Hosting with Nginx on EC2: Deploy these pages easily on an EC2 instance with Nginx. Showcase your vase collection to the world with a beautiful and responsive web presence.
 
@@ -23,9 +23,7 @@ Custom Database Integration: Connect your preferred database to enhance user int
 
 Microservices Architecture: Utilize these pages as microservices for a modular and scalable application. Implement additional functionality by integrating each page as a microservice.
 
-###Clone the repository:
-
-bash
+### Clone the repository:
 Copy code
 git clone https://github.com/Aniket-d-d/VasecomProject.git
 Customize and enhance the pages to fit your requirements.
