@@ -17,7 +17,7 @@ Image Gallery: The images folder includes a variety of high-quality stock images
 
 ### How to Use:
 
-Hosting with Nginx on EC2: Deploy these pages easily on an EC2 instance with Nginx. Showcase your vase collection to the world with a beautiful and responsive web presence.
+Hosting with Nginx on EC2: Deploy these pages easily on an EC2 instance with Nginx.
 
 Custom Database Integration: Connect your preferred database to enhance user interactions, manage orders efficiently, and personalize the user experience.
 
